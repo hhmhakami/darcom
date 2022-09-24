@@ -32,7 +32,7 @@
                     <div class="flex-shrink-0 flex items-center">
                         <a class="italic flex gap-2 group" href="{{ url('/') }}">
                             <img class="w-20" src="{{ url('img/logo.png') }}">
-                           
+
                         </a>
                     </div>
 
